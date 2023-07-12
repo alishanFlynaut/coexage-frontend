@@ -1,0 +1,2286 @@
+@media only screen and (min-width: 1200px) and (max-width: 1399px)  {
+    .btn {
+        font-size: 15px;
+    }
+    .my-account-content .nav-tabs .nav-link, .account-billing-content .nav-tabs .nav-link {
+        font-size: 18px;
+    }
+    .header-nav .nav .nav-item {
+        padding: 0px 6px;
+    }
+    .header-nav .nav .nav-item .nav-link {
+        padding: 23px 17px;
+    }
+    .dashboard-page .content-wrapper {
+        padding: 30px;
+    }
+    .hm-info-box-wrap .card-body {
+        padding: 20px 20px;
+    }
+    .hm-info-box-wrap .info-box-title {
+        font-size: 15px;
+        letter-spacing: 0.05em;
+        margin-bottom: 14px;
+    }
+    .hm-info-box-wrap .info-box-count {
+            font-size: 26px;
+    }
+    .hm-info-box-wrap .info-box-img {
+        padding: 7px 7px;
+        margin-right: 13px;
+        width: 40px;
+    }
+    .hm-info-box-wrap .info-box-text {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .all-projects-wrap {
+        padding: 20px;
+    }
+    .all-projects-wrap .view-pro,
+    .all-projects-wrap h2 {
+        font-size: 18px;
+    }
+    .all-projects-wrap .pro-lists-tbl {
+        margin-top: 20px;
+    }
+
+    .payment-success-page .container-ord-summary, .payment-details-page .container-ord-summary {
+        max-width: 1140px;
+    }
+    .ord-summary-wrap .ord-summary-card {
+        padding: 41px 55px;
+    }
+    .pay-card-body .form-group label {
+        font-size: 18px;
+    }
+    .ord-summary-icon-wrap {
+        width: 90px;
+        height: 90px;
+        right: 24px;
+        border: 13px solid rgba(250, 126, 2, .2);
+    }
+    .ord-summary-icon {
+        line-height: 63px;
+    }
+    .ord-summary-body .ord-summary-icon img {
+        width: 38px;
+    }
+    .project-guidelines-page form .form-check .form-check-label {
+        font-size: 15px;
+    }
+
+    .revision-area .revision-sidebar ul li {
+        padding: 15px;
+    }
+    .revision-area .revision-sidebar ul li .revi-left h3 {
+        font-size: 32px;
+        line-height: 35px;
+        padding: 10px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid {
+        padding-left: 12px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid h4 {
+        font-size: 16px;
+    }
+    .revision-area .revision-sidebar ul li .revi-right .three-dot, .revision-area .revision-sidebar ul li .revi-right .dt,
+    .revision-area .revision-sidebar ul li .revi-mid span.name, .revision-area .revision-sidebar ul li .revi-mid span.status {
+        font-size: 14px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid span.name {
+        margin-top: 5px;
+    }
+
+    .content-bg-white, .project-type-content {
+        padding: 40px 40px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link {
+        padding: 30px 12px;
+        margin-right: 15px;
+        margin-bottom: 25px;
+        max-width: 185px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link img {
+        height: 70px;
+        margin-bottom: 20px;
+    }
+
+    .price-card-info .card {
+        height: 135px;
+        width: 154px;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+    .price-card-info .card label {
+        padding: 15px;
+    }
+
+    .workspace-page .card-body .brand-img {
+        width: 100%;
+        max-width: 70px;
+    }
+    .workspace-page .card-body .brand-img img {
+        width: 100%;
+    }
+    .workspace-page .content-wrapper .card-body h2 {
+        font-size: 17px;
+    }
+    .workspace-page .content-wrapper .card-body .card-text {
+        font-size: 16px;
+    }
+	.request-drop-menu .bottom-area .status-text {
+    	margin-right: 0;
+	}
+	.request-drop-menu .bottom-area .right {
+	    padding: 15px 20px;
+	}
+	.request-drop-menu .bottom-area .right .time span {
+		padding: 20px 15px;
+		font-size: 30px;
+		line-height: 42px;
+	}
+	.request-drop-menu .bottom-area .right .time-text {
+    font-size: 16px;
+    line-height: 23px;
+    padding: 0 0 0 7px;
+}
+.inprocess-bar .bar-box {
+    width: 120px;
+}
+.request-drop-menu .top-area .box {
+    margin-right: 40px;
+}
+.request-drop-menu .top-area .box h4 {
+    font-size: 17px;
+    line-height: 24px;
+}
+.request-drop-menu .top-area .box p {
+    font-size: 16px;
+    line-height: 30px;
+}
+}
+/*min 1200px*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px)  {
+.my-account-content .nav-tabs .nav-link, .account-billing-content .nav-tabs .nav-link {
+    font-size: 17px;
+}
+.header-nav .nav .nav-item {
+    padding: 0px 6px;
+}
+.header-nav .nav .nav-item .nav-link {
+    padding: 23px 7px;
+    font-size: 12px;
+}
+.modal-title,
+.header-title-wrap .breadcrumb .breadcrumb-item,
+.header-title-wrap h1.main-title,
+.header-title-wrap h1 {
+    font-size: 26px;
+    line-height: 33px;
+}
+.header-title-wrap {
+    padding: 32px 0px;
+}
+.my-account-content .tab-content, .account-billing-content .tab-content {
+    padding: 50px 0 0 0;
+}
+.widget-sidebar {
+    padding: 30px;
+}
+.my-account-content.points-contact-wrap, .my-account-content .add-ons-wrap, .account-billing-content .points-contact-wrap, .account-billing-content .add-ons-wrap {
+    padding: 30px;
+}
+.widget-sidebar ul li {
+    font-size: 17px;
+    line-height: 22px;
+}
+.delete-card-wrap {
+    padding-left: 0;
+}
+.delete-card-wrap .card-title,
+.account-billing-content h3 {
+    font-size: 24px;
+}
+.btn,
+.title-right .btn {
+    font-size: 15px;
+    padding: 18px 22px;
+}
+    .showing-wrap label {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .form-select-lg {
+        font-size: 17px;
+    }
+    .projects-box {
+        padding: 15px;
+    }
+    .projects-count-wrap {
+        margin-bottom: 18px;
+    }
+    .projects-box .project-count {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .projects-box .project-title {
+        font-size: 14px;
+    }
+    .tbl-wrap .tbl-body, .request-tbl-wrap .request-tbl, .compaings-tbl-wrap .compaings-tbl {
+        margin-bottom: 45px;
+    }
+    .request-tbl.table thead th, .compaings-tbl.table thead th {
+        font-size: 17px;
+        padding: 10px;
+    }
+    .tbl-wrap .tbl-body td, .request-tbl-wrap table.request-tbl td, .compaings-tbl-wrap table.compaings-tbl td {
+        font-size: 15px;
+         padding: 10px;
+    }
+
+    .content-wrapper {
+        padding: 39px 0px;
+    }
+
+
+    .dashboard-page .content-wrapper {
+        padding: 30px;
+    }
+    .hm-info-box-wrap .card-body {
+        padding: 18px 17px;
+    }
+    .hm-info-box-wrap .info-box-title {
+        font-size: 15px;
+        letter-spacing: 0.05em;
+        margin-bottom: 14px;
+    }
+    .hm-info-box-wrap .info-box-count {
+            font-size: 26px;
+    }
+    .hm-info-box-wrap .info-box-img {
+        padding: 7px 7px;
+        margin-right: 13px;
+        width: 40px;
+    }
+    .hm-info-box-wrap .info-box-text {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .all-projects-wrap {
+        padding: 20px;
+    }
+    .sidebar-tabs .nav-link,
+    .all-projects-wrap .view-pro,
+    .all-projects-wrap h2 {
+        font-size: 18px;
+    }
+    .all-projects-wrap .pro-lists-tbl {
+        margin-top: 20px;
+    }
+    .sidebar-tabs .tab-content {
+        padding: 30px 17px;
+    }
+    .sidebar-tabs .tab-content li {
+        font-size: 15px;
+        padding: 15px 0px;
+        padding-left: 35px;
+    }
+    .our-packages-wrap h2 {
+        font-size: 18px;
+    }
+    .our-packages-wrap a {
+        font-size: 14px;
+        padding: 11px 13px;
+        margin-top: 22px;
+    }
+    .our-packages-wrap img.add-img {
+        right: -33px;
+        bottom: 10px;
+        width: 120px;
+    }
+
+    .modal-header,
+    .modal-body,
+    .ReqProjectModal .modal-header,
+    .ReqProjectModal .modal-body {
+        padding: 23px;
+    }
+
+    .modal-body p,
+    .ReqProjectModal .form-group label,
+    .ReqProjectModal .modal-body .form-check .form-check-label,
+    .ReqProjectModal .modal-body p {
+        font-size: 16px;
+    }
+    .modal-footer {
+        padding: 0px 10px 30px 10px;
+    }
+    .ReqProjectModal .modal-footer {
+        padding: 0px 23px 23px 23px;
+    }
+
+    .ord-summary-wrap .ord-summary-card {
+        padding: 41px 45px;
+    }
+    .ord-summary-card .ord-card-title h2,
+    .pay-details-card .pay-card-title h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .pay-success-msg p, .payment-success-page .pay-card-body p {
+        font-size: 17px;
+    }
+    .pay-success-msg h5, .payment-success-page .pay-card-body h5 {
+        font-size: 19px;
+        margin-top: 35px;
+    }
+    .ord-summary-card .ord-summary-body {
+        padding: 50px 25px 35px 25px;
+    }
+    .ord-summary-item .ord-summary-info span.label-info {
+        font-size: 16px;
+    }
+    .ord-summary-item .ord-summary-info .title-info {
+        font-size: 20px;
+        line-height: 24px;
+        padding-bottom: 20px;
+    }
+    .ord-summary-icon-wrap {
+        width: 75px;
+        height: 75px;
+        top: 15px;
+        right: 15px;
+        border: 10px solid rgba(250, 126, 2, .2);
+    }
+    .ord-summary-icon {
+        line-height: 50px;
+    }
+    .ord-summary-body .ord-summary-icon img {
+        width: 30px;
+    }
+    .pay-details-row {
+        padding-top: 80px;
+        padding-left: 60px;
+    }
+    .pay-details-wrap .pay-details-card .pay-card-title {
+        margin-bottom: 30px;
+    }
+    .pay-card-body .form-group {
+        margin-bottom: 27px;
+    }
+    .pay-card-body .form-group label {
+        font-size: 16px;
+    }
+    .pay-card-body .form-group .single-input input {
+        padding: 18px;
+        padding-left: 40px;
+    }
+    .pay-card-body .form-group .single-input img {
+        padding: 18px 10px;
+        padding-left: 12px;
+    }
+    .payment-success-page .pay-details-row {
+        padding-right: 57px;
+    }
+    .ord-summary-card .ord-summary-footer a {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .header-title-wrap .page-title p {
+        font-size: 16px;
+    }
+
+    .mainpage-tabs-area .tab-content .tab-pane .dates {
+        font-size: 17px;
+    }
+    .mainpage-tabs-area .tab-pane .tabs-text {
+        padding: 40px 30px;
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h3 {
+        font-size: 18px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h2 {
+        font-size: 23px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left {
+        padding-right: 90px;
+    }
+    .substabs-boxs span.top-texts,
+    .mainpage-tabs-area .tab-pane .listed-box .left p,
+    .mainpage-tabs-area .tab-pane .contet-box .left p {
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left span.green-text {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .right,
+    .mainpage-tabs-area .tab-pane .contet-box .right {
+        font-size: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .left h3 {
+        font-size: 18px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .mainpage-tabs-area .nav button {
+        font-size: 18px;
+    }
+
+    .form-filled h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .header-title-after-div:after {
+        height: 56px;
+    }
+    .requests-content-wrap .right-content h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .requests-content-wrap .right-content p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .requests-page-wrap .header-title-wrap .page-title p {
+        font-size: 16px;
+        line-height: 24px;
+        color: #fff;
+    }
+
+    .mainpage-tabs-area .tab-pane .tab-content-area span {
+        font-size: 19px;
+        line-height: 27px;
+    }
+
+    .mainpage-tabs-area .tab-pane .tab-content-area h2,
+    .revision-area h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .revision-area .revision-sidebar ul li {
+        padding: 15px;
+    }
+    .revision-area .revision-sidebar ul li .revi-left h3 {
+        font-size: 32px;
+        line-height: 35px;
+        padding: 10px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid {
+        padding-left: 12px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid h4 {
+        font-size: 16px;
+    }
+    .revision-area .revision-sidebar ul li .revi-right .three-dot, .revision-area .revision-sidebar ul li .revi-right .dt,
+    .revision-area .revision-sidebar ul li .revi-mid span.name, .revision-area .revision-sidebar ul li .revi-mid span.status {
+        font-size: 14px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid span.name {
+        margin-top: 5px;
+    }
+    .mainpage-tabs-area .tab-pane .tab-content-area p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .contet-box-footer .btn-area .btn {
+        margin-bottom: 10px;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .revision-area.mainpage-tabs-area .tab-pane .revision-left {
+        padding: 20px;
+    }
+    .revision-area.mainpage-tabs-area .tab-pane .tabs-text.bg-white {
+        padding: 45px 30px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box-footer span.red-text {
+        padding-right: 15px;
+    }
+
+
+    .project-type-content .card .card-body {
+        padding: 30px;
+    }
+    .project-type-content .card .card-title {
+        font-size: 27px;
+        line-height: 35px;
+    }
+    .content-bg-white, .project-type-content {
+        padding: 40px 40px;
+    }
+    .project-type-tabs {
+        margin-top: 60px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link {
+        padding: 20px 12px;
+        margin-right: 10px;
+        margin-bottom: 15px;
+        max-width: 155px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link img {
+        height: 50px;
+        margin-bottom: 15px;
+    }
+
+    .project-type-tabs .project-tabs-content-wrap {
+        padding: 35px 27px;
+    }
+    .price-card-info .card {
+        width: 46%;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+    .price-card-info .card label {
+        padding: 15px;
+    }
+    .price-card-info .card h2,
+    .price-card-info .card h5 {
+        font-size: 18px;
+    }
+
+    .workspace-page .content-wrapper h2 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .workspace-page .content-wrapper p {
+        font-size: 20px;
+    }
+	
+	
+	
+	.request-drop-menu .bottom-area .status-text {
+    	margin-right: 0;
+	}
+	.request-drop-menu .bottom-area .right {
+	    padding: 15px 15px;
+	}
+	.request-drop-menu .bottom-area .right .time span {
+		padding: 15px 10px;
+		font-size: 30px;
+		line-height: 42px;
+	}
+	.request-drop-menu .bottom-area .right .time-text {
+    font-size: 13px;
+    line-height: 19px;
+    padding: 0 0 0 7px;
+}
+.inprocess-bar .bar-box {
+    width: 100px;
+}
+.request-drop-menu .top-area .box {
+    margin-right: 40px;
+}
+.request-drop-menu .top-area .box h4 {
+    font-size: 17px;
+    line-height: 24px;
+}
+.request-drop-menu .top-area .box p {
+    font-size: 16px;
+    line-height: 30px;
+}
+.request-drop-menu .bottom-area .status-text h5 {
+    font-size: 16px;
+    line-height: 21px;
+    margin: 0 0 5px 0;
+}
+.inprocess-bar .bar-box span {
+    font-size: 14px;
+    line-height: 20px;
+}
+}
+/* end min 992px */
+
+@media only screen and (min-width: 768px) and (max-width: 991px)  {
+    .header-nav .nav .nav-item .nav-link {
+        padding: 10px 20px;
+    }
+    .header-title-wrap h1.main-title {
+        padding-right: 15px;
+    }
+    .header-title-wrap .breadcrumb .breadcrumb-item,
+    .header-title-wrap h1.main-title,
+    .header-title-wrap h1 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .title-right .btn {
+        font-size: 16px;
+        padding: 18px 22px;
+    }
+
+    .my-account-content .nav-tabs .nav-link, .account-billing-content .nav-tabs .nav-link {
+        font-size: 16px;
+        display: block;
+        text-align: center;
+        padding: 12px 15px;
+    }
+    .my-account-content .nav-tabs .nav-link img, .account-billing-content .nav-tabs .nav-link img {
+        margin-right: 0px;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 10px;
+        max-width: 25px;
+        width: 100%;
+    }
+    .account-billing-wrap .account-billing-content, .account-billing-wrap .account-billing-sidebar {
+        padding-top: 0;
+    }
+
+    .account-billing-content .tab-content {
+        padding: 30px 0 0 0;
+    }
+
+
+    .notifications-info-wrap h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .notifications-info-wrap p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    }
+    .notifications-info-wrap .notifications-box {
+        padding: 30px;
+    }
+    .notifications-info-wrap h2 {
+        font-size: 18px;
+    }
+    .notifications-box img {
+        width: 100%;
+        max-width: 110px;
+    }
+    .notifications-box .notifi-text {
+        padding: 0px 18px;
+    }
+    .switch-btn .label-text {
+        font-size: 16px;
+        margin: 18px;
+    }
+    .switch-btn .switch {
+        width: 90px;
+        height: 40px;
+    }
+    .switch-btn .slider:before {
+        height: 30px;
+        width: 30px;
+        bottom: 4px;
+    }
+
+    .search-wrap input {
+        padding: 15px 18px;
+        font-size: 16px;
+    }
+    .search-wrap .btn {
+        padding: 12px 16px;
+    }
+
+    .user-panel .tbl-wrap thead th, .teams-panel .tbl-wrap thead th {
+        font-size: 17px;
+        padding: 10px 25px;
+    }
+
+    .user-panel .tbl-wrap .tbl-body td, .teams-panel .tbl-wrap .tbl-body td {
+        padding: 15px 30px;
+    }
+    .user-panel .tbl-wrap .user-details .user-name-email {
+        padding-left: 20px;
+    }
+
+    .mainpage-tabs-area .nav button {
+        font-size: 20px;
+    }
+
+    .tbl-wrap .tbl-body, .request-tbl-wrap .request-tbl, .compaings-tbl-wrap .compaings-tbl {
+        margin-bottom: 45px;
+    }
+
+    
+    .request-tbl.table thead th, .compaings-tbl.table thead th {
+        font-size: 17px;
+        padding: 10px;
+    }
+    .tbl-wrap .tbl-body td, .request-tbl-wrap table.request-tbl td, .compaings-tbl-wrap table.compaings-tbl td {
+        font-size: 15px;
+         padding: 10px;
+    }
+
+    .dashboard-page .header-title-wrap {
+        padding: 30px 0px;
+    }
+
+    .request-btn {
+        font-size: 16px;
+        height: auto;
+        padding: 18px 22px;
+    }
+    .project-type-wrap select {
+        font-size: 14px;
+        padding: 18px 22px;
+        max-width: 205px;
+    }
+    .project-type-wrap label {
+        font-size: 16px;
+    }
+    .hm-info-box-wrap .col-md-4 {
+        width: 50%;
+    }
+    .hm-info-box-wrap .card-body {
+        padding: 22px 18px;
+    }
+    .hm-info-box-wrap .info-box-title {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .hm-info-box-wrap .info-box-count {
+        font-size: 24px;
+    }
+    .hm-info-box-wrap .info-box-img {
+        padding: 7px 7px;
+        margin-right: 13px;
+        width: 40px;
+    }
+    .hm-info-box-wrap .info-box-text {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .sidebar-tabs .tab-content .listing-empty p {
+        font-size: 14px;
+    }
+    .all-projects-wrap {
+    padding: 20px 15px;
+}
+    .all-projects-wrap .view-pro,
+    .all-projects-wrap h2 {
+        font-size: 16px;
+    }
+    .all-projects-wrap .pro-lists-tbl {
+        margin-top: 20px;
+    }
+    .sidebar-tabs .nav-link {
+        font-size: 14px;
+        padding: 7px 10px;
+    }
+    .sidebar-tabs .tab-content {
+        padding: 20px 15px;
+    }
+    .sidebar-tabs .tab-content li {
+        font-size: 14px;
+        padding: 12px 0px;
+        padding-left: 34px;
+    }
+    .our-packages-wrap h2 {
+        font-size: 16px;
+    }
+    .our-packages-wrap p {
+        font-size: 13px;
+    }
+    .our-packages-wrap a {
+        font-size: 12px;
+        padding: 9px 10px;
+        margin-top: 22px;
+    }
+    .our-packages-wrap img.add-img {
+        right: -33px;
+        bottom: 80px;
+        width: 80px;
+    }
+    .all-projects-wrap .pro-lists-tbl.table thead th {
+        font-size: 15px;
+        padding: 10px;
+    }
+    .all-projects-wrap .pro-lists-tbl.table td {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .myaccount-content .info-panel {
+        padding: 28px 16px;
+    }
+    .personal-info-wrap .user-image {
+        padding: 13px;
+    }
+    .personal-info-wrap .user-image img {
+        width: 100px;
+    }
+    .personal-info-wrap .user-image p {
+        font-size: 16px;
+        margin: 15px 0px 0px 0px;
+    }
+    .personal-info-wrap .user-info h2 {
+        margin-bottom: 10px;
+    }
+    .form-group label {
+        font-size: 16px;
+        padding: 8px 0px;
+    }
+    .form-control {
+        font-size: 16px;
+        padding: 10px 12px;
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 15px;
+    }
+
+    .search-filter-frm input {
+        padding: 12px 16px;
+        font-size: 17px;
+    }
+    .search-filter-frm .btn {
+        padding: 12px 16px;
+    }
+    .filter-frm-wrap a {
+        font-size: 19px;
+    }
+    .form-select-lg {
+        font-size: 16px;
+    }
+
+    .modal-header,
+    .modal-body,
+    .ReqProjectModal .modal-header,
+    .ReqProjectModal .modal-body {
+        padding: 18px;
+    }
+
+    .modal-body p,
+    .ReqProjectModal .form-group label,
+    .ReqProjectModal .modal-body .form-check .form-check-label,
+    .ReqProjectModal .modal-body p {
+        font-size: 16px;
+    }
+    .modal-footer {
+        padding: 0px 10px 30px 10px;
+    }
+    .ReqProjectModal .modal-footer {
+        padding: 0px 23px 23px 23px;
+    }
+
+    .pay-details-row,
+    .ord-summary-row {
+        width: 100%;
+    }
+    .payment-success-page .pay-details-row {
+        padding-right: 75px;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    .pay-details-row:after {
+        display: none;
+    }
+
+    .ord-summary-wrap .ord-summary-card {
+        padding: 41px 45px;
+    }
+    .pay-success-msg p, .payment-success-page .pay-card-body p {
+        font-size: 17px;
+    }
+    .pay-success-msg h5, .payment-success-page .pay-card-body h5 {
+        font-size: 19px;
+        margin-top: 35px;
+    }
+    .ord-summary-card .ord-card-title h2,
+    .pay-details-card .pay-card-title h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .ord-summary-card .ord-summary-body {
+        padding: 50px 25px 35px 25px;
+    }
+    .ord-summary-item .ord-summary-info span.label-info {
+        font-size: 16px;
+    }
+    .ord-summary-item .ord-summary-info .title-info {
+        font-size: 20px;
+        line-height: 24px;
+        padding-bottom: 20px;
+    }
+    .ord-summary-icon-wrap {
+        width: 75px;
+        height: 75px;
+        top: 15px;
+        right: 15px;
+        border: 10px solid rgba(250, 126, 2, .2);
+    }
+    .ord-summary-icon {
+        line-height: 50px;
+    }
+    .ord-summary-body .ord-summary-icon img {
+        width: 30px;
+    }
+    .pay-details-row {
+        padding-top: 80px;
+        padding-left: 60px;
+    }
+    .pay-details-wrap .pay-details-card .pay-card-title {
+        margin-bottom: 30px;
+    }
+    .pay-card-body .form-group {
+        margin-bottom: 27px;
+    }
+    .pay-card-body .form-group label {
+        font-size: 16px;
+    }
+    .pay-card-body .form-group .single-input input {
+        padding: 18px;
+        padding-left: 40px;
+    }
+    .pay-card-body .form-group .single-input img {
+        padding: 18px 10px;
+        padding-left: 12px;
+    }
+    .payment-success-page .pay-details-row {
+        padding-right: 57px;
+    }
+    .ord-summary-card .ord-summary-footer a {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .header-title-wrap .page-title p {
+        font-size: 16px;
+    }
+
+    .pricing-wrapper .pricing-top .label-text {
+        font-size: 16px;
+        margin: 18px;
+    }
+    .pricing-wrapper .switch {
+        display: inline-block;
+        width: 80px;
+        height: 38px;
+    }
+    .pricing-wrapper .slider:before {
+        height: 30px;
+        width: 30px;
+    }
+    .package-container {
+        padding-top: 70px;
+    }
+    .package-container .packages {
+        width: 328px;
+        padding-top: 60px;
+    }
+    .package-container .packages .pack-icon-wrap {
+        width: 100px;
+        height: 100px;
+        border: 12px solid rgba(250, 126, 2, .2);
+    }
+    .package-container .packages .pack-icon-wrap .pack-icon {
+        line-height: 70px;
+    }
+    .package-container .packages .pack-icon-wrap .pack-icon img {
+        width: 37px;
+    }
+    .package-container .packages .pack-title {
+        font-size: 19px;
+        line-height: 24px;
+        margin-bottom: 13px;
+    }
+    .package-container .packages .price-tags {
+        font-size: 32px;
+        line-height: 39px;
+        margin-bottom: 10px;
+    }
+    .package-container .packages .price-limit {
+        font-size: 18px;
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+    }
+    .package-container .packages .pack-btn {
+        font-size: 16px;
+    }
+    .package-container .packages .list {
+        padding: 35px 0px 0px 0px;
+    }
+    .package-container .list li {
+        padding-left: 33px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .package-container .packages.active .pack-icon-wrap:after {
+        width: 100px;
+        height: 100px;
+    }
+    .divi-line-or {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .page-title .title-right {
+        margin-top: 15px;
+    }
+
+    .mainpage-tabs-area .tab-content .tab-pane .dates {
+        font-size: 17px;
+    }
+    .mainpage-tabs-area .tab-pane .tabs-text {
+        padding: 40px 30px;
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h3 {
+        font-size: 18px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h2 {
+        font-size: 23px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left {
+        padding-right: 90px;
+    }
+    .substabs-boxs span.top-texts,
+    .mainpage-tabs-area .tab-pane .listed-box .left p,
+    .mainpage-tabs-area .tab-pane .contet-box .left p {
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left span.green-text {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .right,
+    .mainpage-tabs-area .tab-pane .contet-box .right {
+        font-size: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .left h3 {
+        font-size: 18px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .mainpage-tabs-area .nav button {
+        font-size: 18px;
+    }
+
+    .process-bar-area .text {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .process-bar-area .text img {
+        margin-right: 10px;
+    }
+    .content-bg-white, .project-type-content {
+        padding: 40px 45px;
+    }
+    .form-filled h2 {
+        font-size: 22px;
+        line-height: 27px;
+    }
+    .form-filled p {
+        font-size: 16px;
+    }
+
+    .project-guidelines-page form .hr-lines {
+        margin-top: 40px;
+        margin-bottom: 35px;
+    }
+    .project-guidelines-page form .single-input img ~ input {
+        padding: 14px 12px;
+        padding-left: 105px;
+    }
+
+    .project-guidelines-page form .form-check .form-check-label {
+        font-size: 15px;
+        padding: 0;
+    }
+    .title-dropdown img {
+        padding: 15px 15px;
+    }
+    .add-filled-btn a {
+        font-size: 16px;
+    }
+    .add-filled-btn img {
+        margin-left: 10px;
+        width: 20px;
+    }
+    .form-group label p {
+        font-size: 15px;
+    }
+
+    .dims-frmat-wrap .dims-frmat-box {
+        padding: 30px;
+    }
+    .dims-frmat-wrap .dims-frmat-box h4,
+    .dims-frmat-wrap .dims-frmat-box h3 {
+        font-size: 18px;
+    }
+    .photos-frmat-wrap {
+        padding: 16px 25px 30px 25px;
+    }
+    .photos-frmat-wrap .dims-frmat-box img {
+        margin-bottom: 25px;
+        width: 48px;
+    }
+    .photos-frmat-wrap .dims-frmat-box p {
+        font-size: 15px;
+    }
+
+    .header-title-after-div:after {
+        height: 76px;
+    }
+    .requests-content-wrap .right-content h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .requests-page-wrap .header-title-wrap .page-title p,
+    .requests-content-wrap .right-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .requests-page-wrap .header-title-wrap .page-title p {
+        color: #fff;
+    }
+
+    .mainpage-tabs-area .tab-pane .tab-content-area span {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .revision-area h1,
+    .mainpage-tabs-area .tab-pane .tab-content-area h2 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .mainpage-tabs-area .tab-pane .tab-content-area p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .revision-area p {
+        font-size: 16px;
+    }
+    .revision-area .revision-sidebar .revision-widget-title {
+        font-size: 23px;
+    }
+
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area h3 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .contet-box-footer .btn-area .btn {
+        margin-bottom: 10px;
+    }
+
+    .tab-content-area .attachment-btn, .tab-content-area .smile-btn {
+        padding: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box-footer span.red-text {
+        padding-right: 15px;
+    }
+
+    .project-type-tabs {
+        margin-top: 60px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link {
+        padding: 15px 10px;
+        margin-right: 7px;
+        margin-bottom: 15px;
+        max-width: 111px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link img {
+        height: 38px;
+        margin-bottom: 10px;
+    }
+
+    .project-type-tabs .project-tabs-navs .nav-link {
+        font-size: 13px;
+    }
+
+    .project-type-tabs .project-tabs-content-wrap {
+            padding: 30px 24px;
+    }
+    .price-card-info .card {
+        width: 135px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    .price-card-info .card label {
+        padding: 10px;
+    }
+    .price-card-info .card h2, .price-card-info .card h5 {
+        font-size: 16px;
+    }
+    .price-card-info .card h2,
+    .price-card-info .card h5 {
+        font-size: 18px;
+    }
+
+    .project-type-content .card .card-body {
+        display: block !important;
+        padding: 23px;
+    }
+    .project-type-content .card .card-title {
+        font-size: 26px;
+        line-height: 42px;
+    }
+    .process-bar-area {
+        margin-bottom: 50px;
+    }
+
+    .project-type-tabs .project-tabs-content-wrap h5 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .project-type-tabs .project-tabs-content-wrap p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .workspace-page .content-wrapper h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .workspace-page .content-wrapper p {
+        font-size: 18px;
+    }
+
+    .account-billing-content h3 {
+        font-size: 24px;
+        line-height: 19px;
+    }
+    .points-contact-wrap .form-group-wrap .form-group label {
+        font-size: 16px;
+    }
+    .widget-sidebar .widget-title {
+        font-size: 26px;
+            margin-bottom: 36px;
+    }
+    .pay-methods-title h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+	
+	
+	
+	.request-drop-menu .bottom-area .status-text {
+    	margin-right: 0;
+	}
+	.request-drop-menu .bottom-area .right {
+    padding: 8px 6px;
+    display: block !important;
+}
+	.request-drop-menu .bottom-area .right .time span {
+    padding: 1px 8px;
+    font-size: 20px;
+    line-height: 36px;
+}
+	.request-drop-menu .bottom-area .right .time-text {
+    font-size: 13px;
+    line-height: 19px;
+    padding: 0px;
+}
+.inprocess-bar .bar-box {
+    width: 78px;
+}
+.request-drop-menu .top-area .box {
+    margin-right: 18px;
+}
+.request-drop-menu .top-area .box h4 {
+    font-size: 15px;
+    line-height: 22px;
+}
+.request-drop-menu .top-area .box p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.request-drop-menu .bottom-area .status-text h5 {
+    font-size: 16px;
+    line-height: 21px;
+    margin: 0 0 5px 0;
+}
+.inprocess-bar .bar-box span {
+    font-size: 11px;
+    line-height: 20px;
+}
+.inprocess-bar .bar-box .number {
+    width: 40px;
+    height: 40px;
+    line-height: 35px;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.request-drop-menu .bottom-area .status-text p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.inprocess-bar .bar-box:after {
+    top: 21px;
+    right: -24px;
+}
+}
+/* end min 768px */
+
+@media only screen and (max-width: 767px) {
+    .wb-page .auth .auth-form-wrap h4 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .wb-page .auth .not-regis {
+        font-size: 16px;
+    }
+    .btn {
+        font-size: 15px;
+    }
+    .title-right .btn {
+        font-size: 16px;
+        padding: 15px 20px;
+    }
+    .header-title-wrap .page-title {
+        align-items: flex-start;
+    }
+    .navbar .navbar-menu-wrapper .count-indicator .count-symbol {
+        top: 14px;
+        right: -6px;
+        width: 21px;
+        height: 21px;
+        font-size: 12px;
+        line-height: 19px;
+    }
+    .navbar .navbar-menu-wrapper .navbar-nav .nav-item.dropdown .dropdown-toggle:after {
+        margin-left: 16px;
+    }
+    .my-account-content.points-contact-wrap, .my-account-content .add-ons-wrap, .account-billing-content .points-contact-wrap, .account-billing-content .add-ons-wrap {
+        padding: 25px;
+    }
+
+    .my-account-content .nav-tabs .nav-link, .account-billing-content .nav-tabs .nav-link {
+        font-size: 16px;
+        display: block;
+        text-align: center;
+        padding: 12px 15px;
+    }
+    .my-account-content .nav-tabs .nav-link img, .account-billing-content .nav-tabs .nav-link img {
+        margin-right: 0px;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 10px;
+        max-width: 25px;
+        width: 100%;
+    }
+    .account-billing-wrap .account-billing-content, .account-billing-wrap .account-billing-sidebar {
+        padding-top: 0;
+    }
+
+    .account-billing-content .tab-content {
+        padding: 30px 0 0 0;
+    }
+
+
+    .notifications-info-wrap h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .notifications-info-wrap p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    }
+    .notifications-info-wrap .notifications-box {
+        padding: 25px;
+    }
+    .notifications-info-wrap h2 {
+        font-size: 16px;
+    }
+    .notifications-box img {
+        width: 100%;
+        max-width: 110px;
+    }
+    .notifications-box .notifi-text {
+        padding:0px;
+    }
+    .switch-btn .label-text {
+        font-size: 15px;
+        margin: 18px;
+    }
+    .switch-btn .switch {
+        width: 90px;
+        height: 40px;
+    }
+    .switch-btn .slider:before {
+        height: 30px;
+        width: 30px;
+        bottom: 4px;
+    }
+
+    .search-wrap {
+        margin-bottom: 10px;
+    }
+
+    .search-wrap input {
+        padding: 15px 18px;
+        font-size: 16px;
+    }
+    .search-wrap .btn {
+        padding: 12px 16px;
+    }
+
+    .user-panel .tbl-wrap thead th, .teams-panel .tbl-wrap thead th {
+        font-size: 17px;
+        padding: 10px 17px;
+    }
+
+    .user-panel .tbl-wrap .tbl-body td, .teams-panel .tbl-wrap .tbl-body td {
+        padding: 13px 22px;
+    }
+    .user-panel .tbl-wrap .user-details .user-name-email {
+        padding-left: 14px;
+    }
+    .form-select-lg {
+        font-size: 16px;
+    }
+
+    .header-nav .nav .nav-item .nav-link {
+        padding: 10px 20px;
+    }
+    .header-title-wrap .breadcrumb .breadcrumb-item,
+    .header-title-wrap h1.main-title,
+    .header-title-wrap h1 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .pay-methods-title h2,
+    .account-billing-content h3 {
+        font-size: 21px;
+        line-height: 27px;
+        margin-bottom: 22px;
+    }
+
+    .pay-method-tbl.table thead th {
+        font-size: 18px;
+    }
+
+    .header-title-wrap {
+        padding: 35px 0px;
+    }
+    .my-account-page .header-title-wrap, .account-billing-page .header-title-wrap {
+        padding-bottom: 120px;
+    }
+    .my-account-content .nav-tabs .nav-link, .account-billing-content .nav-tabs .nav-link {
+        font-size: 16px;
+    }
+    .my-account-content .nav-tabs, .account-billing-content .nav-tabs {
+        display: block;
+    }
+    .widget-sidebar .widget-title {
+        margin-bottom: 30px;
+        font-size: 21px;
+    }
+    .widget-sidebar ul li {
+        font-size: 18px;
+    }
+    .account-billing-tabs li {
+        text-align: left;
+    }
+
+    .delete-card-wrap .card-text {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .account-billing-content .nav-tabs .nav-link span {
+        display: inline-block;
+    }
+    .my-account-content .nav-tabs .nav-link img, .account-billing-content .nav-tabs .nav-link img {
+        width: 30px;
+    }
+    .account-billing-sidebar {
+        padding-top: 0;
+    }
+    .widget-sidebar .widget-title {
+        color: #20466F;
+        margin-bottom: 40px;
+    }
+    .widget-sidebar {
+        padding: 30px;
+    }
+    .delete-card-wrap .card-title {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .header-title-wrap .page-title .title-right {
+        margin-top: 20px;
+    }
+    .mainpage-tabs-area nav .nav-tabs {
+        display: block;
+    }
+    .mainpage-tabs-area .nav button {
+        font-size: 18px;
+        padding: 12px 13px;
+        width: 100%;
+        text-align: left;
+    }
+    .mainpage-tabs-area .tab-pane .tabs-text {
+        padding: 35px 25px;
+        font-size: 17px;
+    }
+    .title-right .btn:first-child {
+        margin-right: 10px;
+    }
+    .content-wrapper {
+        padding: 25px 0;
+    }
+
+    .projects-count-wrap {
+        margin-bottom: 18px;
+    }
+    .tbl-wrap .tbl-body, .request-tbl-wrap .request-tbl, .compaings-tbl-wrap .compaings-tbl {
+        margin-bottom: 45px;
+    }
+    .request-tbl.table thead th, .compaings-tbl.table thead th {
+        font-size: 17px;
+        padding: 10px;
+    }
+    .tbl-wrap .tbl-body td, .request-tbl-wrap table.request-tbl td, .compaings-tbl-wrap table.compaings-tbl td {
+        font-size: 15px;
+         padding: 10px;
+    }
+    .projects-box {
+        min-height: 110px;
+    }
+
+    .dashboard-page .header-title-wrap {
+        padding: 30px 0px;
+    }
+
+    .dashboard-page .content-wrapper {
+        padding: 0;
+    }
+
+    .request-btn {
+        font-size: 16px;
+        height: auto;
+        padding: 18px 22px;
+    }
+    .project-type-wrap select {
+        font-size: 14px;
+        padding: 18px 22px;
+        max-width: 205px;
+    }
+    .project-type-wrap label {
+        font-size: 16px;
+    }
+
+    .hm-info-box-wrap .card-body {
+        padding: 22px 18px;
+    }
+    .hm-info-box-wrap .info-box-title {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .hm-info-box-wrap .info-box-count {
+        font-size: 24px;
+    }
+    .hm-info-box-wrap .info-box-img {
+        padding: 7px 7px;
+        margin-right: 13px;
+        width: 40px;
+    }
+    .hm-info-box-wrap .info-box-text {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .all-projects-wrap {
+    padding: 20px 15px;
+}
+    .all-projects-wrap .view-pro,
+    .all-projects-wrap h2 {
+        font-size: 16px;
+    }
+    .all-projects-wrap .pro-lists-tbl {
+        margin-top: 20px;
+    }
+    .sidebar-tabs .nav-link {
+        font-size: 14px;
+        padding: 7px 10px;
+    }
+    .sidebar-tabs .tab-content {
+        padding: 20px 15px;
+    }
+    .sidebar-tabs .tab-content li {
+        font-size: 14px;
+        padding: 12px 0px;
+        padding-left: 34px;
+    }
+    .our-packages-wrap h2 {
+        font-size: 16px;
+    }
+    .our-packages-wrap p {
+        font-size: 13px;
+    }
+    .our-packages-wrap a {
+        font-size: 12px;
+        padding: 9px 10px;
+        margin-top: 22px;
+    }
+    .our-packages-wrap img.add-img {
+        right: -10px;
+        bottom: 60px;
+        width: 100px;
+    }
+    .all-projects-wrap .pro-lists-tbl.table thead th {
+        font-size: 15px;
+        padding: 10px;
+    }
+    .all-projects-wrap .pro-lists-tbl.table td {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .all-projects-wrap h2 {
+        padding-right: 15px;
+    }
+
+    .account-billing-wrap .account-billing-content, .account-billing-wrap .account-billing-sidebar {
+        width: 100%;
+        padding-left: 8px;
+    }
+
+    .auth form .form-group label,
+    .form-group label {
+        font-size: 16px;
+        padding: 8px 0px;
+    }
+    .form-control {
+        font-size: 16px;
+        padding: 10px 12px;
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .btn {
+        padding: 15px;
+    }
+
+    .search-filter-frm input {
+        padding: 12px 16px;
+        font-size: 16px;
+    }
+    .search-filter-frm .btn {
+        padding: 10px 16px;
+    }
+    .filter-frm-wrap a {
+        font-size: 17px;
+    }
+
+    .modal-header,
+    .modal-body,
+    .ReqProjectModal .modal-header,
+    .ReqProjectModal .modal-body {
+        padding: 15px;
+    }
+
+    .modal-title {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .modal-body p,
+    .ReqProjectModal .form-group label,
+    .ReqProjectModal .modal-body .form-check .form-check-label,
+    .ReqProjectModal .modal-body p {
+        font-size: 15px;
+    }
+    .modal-footer {
+        padding: 0px 10px 30px 10px;
+    }
+    .ReqProjectModal .modal-footer {
+        padding: 0px 15px 15px 15px;
+    }
+    .btn-secondary {
+         margin-bottom: 0px !important; 
+    }
+    .account-billing-content .tab-content {
+        padding: 30px 0 0 0;
+    }
+
+    .users-teams-info .users-tabs .nav-tabs .nav-link {
+        display: block;
+        width: 100%;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .pay-details-row:after {
+        display: none;
+    }
+
+    .ord-summary-row {
+        padding-top: 40px;
+        margin-bottom: 15px;
+    }
+
+    .ord-summary-wrap .ord-summary-card {
+        padding: 30px 20px;
+    }
+    .ord-summary-card .ord-card-title {
+        margin-bottom: 25px;
+    }
+    .ord-summary-card .ord-card-title h2,
+    .pay-details-card .pay-card-title h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .pay-success-msg p, .payment-success-page .pay-card-body p {
+        font-size: 16px;
+    }
+    .pay-success-msg h5, .payment-success-page .pay-card-body h5 {
+        font-size: 18px;
+        margin-top: 35px;
+    }
+    .ord-summary-card .ord-summary-body {
+        padding: 40px 15px 25px 15px;
+    }
+    .ord-summary-item .ord-summary-info span.label-info {
+        font-size: 14px;
+    }
+    .ord-summary-item .ord-summary-info .title-info {
+        font-size: 18px;
+        line-height: 24px;
+        padding-bottom: 17px;
+    }
+    .ord-summary-card .ord-summary-footer {
+        margin-top: 24px;
+    }
+    .ord-summary-icon-wrap {
+        width: 60px;
+        height: 60px;
+        top: 15px;
+        right: 15px;
+        border: 7px solid rgba(250, 126, 2, .2);
+    }
+    .ord-summary-icon {
+        line-height: 44px;
+    }
+    .ord-summary-body .ord-summary-icon img {
+        width: 24px;
+    }
+    .pay-details-row {
+        padding-top: 80px;
+        padding-left: 60px;
+    }
+    .pay-details-wrap .pay-details-card .pay-card-title {
+        margin-bottom: 30px;
+    }
+    .pay-card-body .form-group {
+        margin-bottom: 27px;
+    }
+    .pay-card-body .form-group label {
+        font-size: 15px;
+    }
+    .pay-card-body .form-group .single-input input {
+        padding: 18px;
+        padding-left: 40px;
+    }
+    .pay-card-body .form-group .single-input img {
+        padding: 18px 10px;
+        padding-left: 12px;
+    }
+    .payment-success-page .pay-details-row {
+        padding: 30px 20px;
+    }
+    .ord-summary-card .ord-summary-footer a {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .header-title-wrap .page-title p {
+        font-size: 15px;
+    }
+
+    .pricing-wrapper .pricing-top .label-text {
+        font-size: 16px;
+        margin: 18px;
+    }
+    .pricing-wrapper .switch {
+        display: inline-block;
+        width: 80px;
+        height: 38px;
+    }
+    .pricing-wrapper .slider:before {
+        height: 30px;
+        width: 30px;
+    }
+    .package-container {
+        padding-top: 70px;
+    }
+    .package-container .packages {
+        width: 100%;
+        padding-top: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .package-container .packages .pack-icon-wrap {
+        width: 100px;
+        height: 100px;
+        border: 12px solid rgba(250, 126, 2, .2);
+    }
+    .package-container .packages .pack-icon-wrap .pack-icon {
+        line-height: 70px;
+    }
+    .package-container .packages .pack-icon-wrap .pack-icon img {
+        width: 37px;
+    }
+    .package-container .packages .pack-title {
+        font-size: 17px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .package-container .packages .price-tags {
+        font-size: 26px;
+        line-height: 33px;
+        margin-bottom: 7px;
+    }
+    .package-container .packages .price-limit {
+        font-size: 16px;
+        padding-bottom: 15px;
+        margin-bottom: 25px;
+    }
+    .package-container .packages .pack-btn {
+        font-size: 16px;
+    }
+    .package-container .packages .list {
+        padding: 25px 0px 0px 0px;
+    }
+    .package-container .list li {
+        padding-left: 33px;
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .package-container .packages.active .pack-icon-wrap:after {
+        width: 100px;
+        height: 100px;
+    }
+    .divi-line-or {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .mainpage-tabs-area .tab-content .tab-pane .dates {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .tabs-text {
+        padding: 30px 15px;
+        font-size: 17px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h3 {
+        font-size: 18px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left h2 {
+        font-size: 19px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left {
+        padding-right: 10px;
+    }
+    .substabs-boxs span.top-texts,
+    .mainpage-tabs-area .tab-pane .contet-box .left p {
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box .left span.green-text {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .right,
+    .mainpage-tabs-area .tab-pane .contet-box .right {
+        font-size: 11px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .left h3 {
+        font-size: 16px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box .left p {
+        font-size: 15px;
+    }
+    .mainpage-tabs-area .tab-pane .listed-box {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .mainpage-tabs-area .nav button {
+        font-size: 18px;
+    }
+
+    .process-bar-area .text {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .process-bar-area .text img {
+        margin-right: 0;
+        width: 20px;
+    }
+    .content-bg-white, .project-type-content {
+        padding: 30px 25px;
+    }
+    .form-filled h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .frm-step-wrap .step-text,
+    .form-filled p {
+        font-size: 15px;
+    }
+    .process-bar-area .middle-area .col-md-4 {
+        width: 33.33%;
+    }
+    .form-filled .text-center a {
+        margin-bottom: 10px !important;
+    }
+
+    .project-guidelines-page form .hr-lines {
+        margin-top: 40px;
+        margin-bottom: 35px;
+    }
+    .project-guidelines-page form .single-input img ~ input {
+        padding: 14px 12px;
+        padding-left: 65px;
+    }
+    .project-guidelines-page form .single-input img {
+        padding-right: 20px;
+    }
+    .project-guidelines-page form .form-check .form-check-label {
+        font-size: 16px;
+        padding: 0;
+    }
+    .title-dropdown img {
+        padding: 15px 15px;
+    }
+    .CreateNewRequest-frm .form-check {
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+
+    .project-guidelines-page form .add-filled-btn {
+        margin-top: 15px;
+        padding-left: 0px;
+        font-size: 14px;
+        text-align: right;
+    }
+    .add-filled-btn a {
+        font-size: 14px;
+    }
+    .add-filled-btn img {
+        margin-left: 5px;
+        width: 18px;
+    }
+    .form-group label p {
+        font-size: 15px;
+    }
+
+    .dims-frmat-wrap .dims-frmat-box {
+        padding: 22px;
+    }
+    .dims-frmat-wrap .dims-frmat-box h4,
+    .dims-frmat-wrap .dims-frmat-box h3 {
+        font-size: 15px;
+    }
+    .photos-frmat-wrap {
+        padding: 16px 25px 30px 25px;
+    }
+    .photos-frmat-wrap .dims-frmat-box img {
+        margin-bottom: 18px;
+        width: 48px;
+    }
+    .photos-frmat-wrap .dims-frmat-box p {
+        font-size: 14px;
+    }
+
+    .requests-content-wrap .right-content h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .requests-page-wrap .header-title-wrap .page-title p,
+    .requests-content-wrap .right-content p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .requests-page-wrap .header-title-wrap .page-title p {
+        color: #fff;
+    }
+
+    .mainpage-tabs-area .tab-pane .tab-content-area span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .mainpage-tabs-area .tab-pane .tab-content-area h2 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+    .mainpage-tabs-area .tab-pane .tab-content-area p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .revision-area .revision-sidebar .revision-widget-title,
+    .revision-area h1 {
+        font-size: 23px;
+    }
+    .revision-area .revision-sidebar ul li .revi-right .three-dot, .revision-area .revision-sidebar ul li .revi-right .dt,
+    .revision-area .revision-sidebar ul li .revi-mid span.name, .revision-area .revision-sidebar ul li .revi-mid span.status,
+    .revision-area p {
+        font-size: 16px;
+    }
+    .revision-area .revision-sidebar ul li {
+        padding: 16px;
+    }
+    .revision-area .revision-sidebar ul li .revi-left h3 {
+        font-size: 34px;
+        line-height: 34px;
+        padding: 12px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid {
+        padding-left: 15px;
+    }
+    .revision-area.mainpage-tabs-area .tab-pane .tabs-text.bg-white,
+    .revision-area .revision-sidebar ul li .revi-mid h4 {
+        font-size: 17px;
+    }
+    .revision-area .revision-sidebar ul li .revi-mid span.name {
+        margin-top: 6px;
+    }
+
+    .contet-box-footer .d-flex {
+        display: block !important;
+    }
+    .contet-box-footer .btn-area .btn {
+        margin-bottom: 10px !important;
+    }
+    .revision-area.mainpage-tabs-area .tab-pane .revision-left,
+    .revision-area.mainpage-tabs-area .tab-pane .tabs-text.bg-white {
+        padding: 30px 18px;
+    }
+    .mainpage-tabs-area .tab-pane .contet-box-footer span.red-text {
+        font-size: 17px;
+        margin-top: 16px;
+      margin-bottom: 15px;
+    }
+
+    .revision-two-col-header .right-area .btn  {
+            margin-bottom: 10px !important;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area h3 {
+        font-size: 20px;
+        line-height: 31px;
+    }
+    .contet-box-footer .btn-area .btn {
+        margin-bottom: 10px;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .tab-content-area .block-red {
+        padding: 25px 19px;
+    }
+    .revision-column-2.mainpage-tabs-area .tab-pane .photo-tab {
+        margin-top: 30px;
+        margin-bottom: 38px;
+    }
+    .revision-two-col-full .tab-content-area .col-md-6 {
+        margin-bottom: 15px;
+    }
+
+    .revision-full-width .revision-left .tab-content-area {
+        margin-top: 25px;
+    }
+    .mainpage-tabs-area .tab-pane .tab-content-area span.org {
+        font-size: 16px;
+    }
+    .tab-content-area .attachment-btn, .tab-content-area .smile-btn {
+        padding: 15px;
+    }
+
+    .project-type-content .card .card-body {
+        display: block !important;
+        padding: 20px;
+    }
+    .project-type-content .card .card-title {
+        font-size: 25px;
+        line-height: 42px;
+    }
+
+    .project-type-tabs {
+        margin-top: 35px;
+    }
+    .project-type-tabs .col-5, .project-type-tabs .col-7 {
+        width: 100%;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link {
+        padding: 15px 12px;
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 7px !important;
+        flex-direction: row !important;
+        text-align: left;
+        font-size: 16px;
+    }
+    .project-type-tabs .project-tabs-navs .nav-link img {
+        height: auto;
+        margin-bottom: 0;
+        width: 33px;
+        margin-right: 10px;
+    }
+    .project-type-tabs .project-tabs-content-wrap {
+        padding: 28px 20px;
+        text-align: left;
+    }
+    .project-type-tabs .project-tabs-content-wrap h5 {
+        font-size: 20px;
+    }
+    .project-type-tabs .project-tabs-content-wrap p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #222222;
+    }
+
+    .price-card-info .card {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .price-card-info .card h2,
+    .project-type-tabs .project-tabs-content-wrap h5 {
+        font-size: 17px;
+    }
+
+    .project-type-tabs .project-tabs-content-wrap h5 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .project-type-tabs .project-tabs-content-wrap p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .workspace-page .content-wrapper h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .workspace-page .content-wrapper p {
+        font-size: 18px;
+    }
+
+    .workspace-page .card-body .brand-img {
+        width: 100%;
+        max-width: 70px;
+    }
+    .workspace-page .card-body .brand-img img {
+        width: 100%;
+    }
+    .workspace-page .content-wrapper .card-body h2 {
+        font-size: 17px;
+    }
+    .workspace-page .content-wrapper .card-body .card-text {
+        font-size: 16px;
+    }
+    .dropdown-menu.brands-dropdown .dropdown-item {
+        font-size: 14px;
+        padding: 11px 10px;
+    }
+
+    .points-contact-wrap .form-group-wrap .form-group label {
+        font-size: 17px;
+    }
+    .widget-sidebar ul li .amt {
+        margin-bottom: 15px;
+    }
+    .my-account-content .nav-tabs .nav-link img, .account-billing-content .nav-tabs .nav-link img {
+        width: 30px;
+        display: inline-block;
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
+	
+	
+	
+	.request-drop-menu .bottom-area .status-text {
+    	margin-right: 0;
+		margin-bottom:15px;
+	}
+	.request-drop-menu .bottom-area .right {
+    padding: 11px 6px;
+    justify-content: center;
+}
+	.request-drop-menu .bottom-area .right .time span {
+    padding: 1px 8px;
+    font-size: 20px;
+    line-height: 36px;
+}
+	.request-drop-menu .bottom-area .right .time-text {
+    font-size: 13px;
+    line-height: 19px;
+    padding: 0px 0 0 10px;
+}
+.inprocess-bar .bar-box {
+    width: 78px;
+}
+.request-drop-menu .top-area .box {
+    margin-right: 18px;
+}
+.request-drop-menu .top-area .box h4 {
+    font-size: 15px;
+    line-height: 22px;
+}
+.request-drop-menu .top-area .box p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.request-drop-menu .bottom-area .status-text h5 {
+    font-size: 16px;
+    line-height: 21px;
+    margin: 0 0 5px 0;
+}
+.inprocess-bar .bar-box span {
+    font-size: 10px;
+    line-height: 15px;
+    height: 30px;
+}
+.inprocess-bar .bar-box .number {
+    width: 40px;
+    height: 40px;
+    line-height: 35px;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.request-drop-menu .bottom-area .status-text p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.inprocess-bar .bar-box:after {
+    top: 21px;
+    right: -24px;
+}
+
+.request-drop-menu .col-set {display:block !important;}
+.request-drop-menu .col-set:after {display:block; clear:both; content:"";}
+.request-drop-menu .col-set .box {float:left; width:50%; padding:0 10px; margin:0;}
+
+.request-drop-menu .bottom-area .left {display:block !important;}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px)  {
+    .price-card-info .card {
+        width: 47%;
+        margin-right: 3%;
+        margin-bottom: 15px;
+    }
+}

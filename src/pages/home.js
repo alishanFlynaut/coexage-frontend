@@ -1,7 +1,10 @@
-import React from 'react'
+import PricingFeatures from "@/components/pricingFeatures/PricingFeatures";
+import React from "react";
 
 export default function home() {
   return (
-    <div>home</div>
-  )
+    <div>
+      <PricingFeatures />
+    </div>
+  );
 }
