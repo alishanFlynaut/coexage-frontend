@@ -51,7 +51,7 @@ export default function PricingFeatures() {
                   <div className="pack-btn-wrap text-center">
                     <a href="#" className="btn btn-secondary pack-btn">
                       Get Started{" "}
-                      <img src="assets/images/arrow-right-icon.png" alt="" />
+                      <img src="/images/arrow-right-icon.png" alt="" />
                     </a>
                   </div>
 
@@ -74,7 +74,7 @@ export default function PricingFeatures() {
                 <div className="packages">
                   <div className="pack-icon-wrap">
                     <div className="pack-icon">
-                      <img src="assets/images/ph_ladder.png" alt="" />
+                      <img src="/images/ph_ladder.png" alt="" />
                     </div>
                   </div>
                   <h2 className="pack-title">BUILD</h2>
@@ -86,7 +86,7 @@ export default function PricingFeatures() {
                   <div className="pack-btn-wrap text-center">
                     <a href="#" className="btn btn-secondary pack-btn">
                       Get Started{" "}
-                      <img src="assets/images/arrow-right-icon.png" alt="" />
+                      <img src="/images/arrow-right-icon.png" alt="" />
                     </a>
                   </div>
 
@@ -111,7 +111,7 @@ export default function PricingFeatures() {
                 <div className="packages">
                   <div className="pack-icon-wrap">
                     <div className="pack-icon">
-                      <img src="assets/images/paper-plane-message.png" alt="" />
+                      <img src="/images/paper-plane-message.png" alt="" />
                     </div>
                   </div>
                   <h2 className="pack-title">Grow</h2>
@@ -123,7 +123,7 @@ export default function PricingFeatures() {
                   <div className="pack-btn-wrap text-center">
                     <a href="#" className="btn btn-secondary pack-btn">
                       Get Started{" "}
-                      <img src="assets/images/arrow-right-icon.png" alt="" />
+                      <img src="/images/arrow-right-icon.png" alt="" />
                     </a>
                   </div>
 
@@ -150,7 +150,7 @@ export default function PricingFeatures() {
                 <div className="packages active">
                   <div className="pack-icon-wrap">
                     <div className="pack-icon">
-                      <img src="assets/images/codicon_rocket.png" alt="" />
+                      <img src="/images/codicon_rocket.png" alt="" />
                     </div>
                   </div>
                   <h2 className="pack-title">ACCELERATE</h2>
@@ -162,7 +162,7 @@ export default function PricingFeatures() {
                   <div className="pack-btn-wrap text-center">
                     <a href="#" className="btn btn-secondary pack-btn">
                       Get Started{" "}
-                      <img src="assets/images/arrow-right-icon.png" alt="" />
+                      <img src="/images/arrow-right-icon.png" alt="" />
                     </a>
                   </div>
 

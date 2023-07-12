@@ -13874,22 +13874,22 @@ dl {
 .login-bg {
   height: 100%;
   background-size: cover !important;
-  background: url(../../assets/images/login-bg.png) no-repeat;
+  background: url(../../images/login-bg.png) no-repeat;
 }
 .login-bg1 {
   height: 100%;
   background-size: cover !important;
-  background: url(../../assets/images/login-bg1.jpg) no-repeat;
+  background: url(../../images/login-bg1.jpg) no-repeat;
 }
 .login-bg2 {
   height: 100%;
   background-size: cover !important;
-  background: url(../../assets/images/login-bg2.jpg) no-repeat;
+  background: url(../../images/login-bg2.jpg) no-repeat;
 }
 .login-bg3 {
   height: 100%;
   background-size: cover !important;
-  background: url(../../assets/images/login-bg3.jpg) no-repeat;
+  background: url(../../images/login-bg3.jpg) no-repeat;
 }
 
 .bg-overlay{
@@ -14149,7 +14149,7 @@ border-radius: 5px;
 .singup-bg {
   height: 100%;
   background-size: cover !important;
-  background: url(../../assets/images/login-bg3.jpg) no-repeat;
+  background: url(../../images/login-bg3.jpg) no-repeat;
 }
 .singup-bg .content-wrapper {
   background: transparent;
@@ -15170,7 +15170,7 @@ border-color: #C9D3DF  !important;
 .workspace-page {
     height: 100%;
     background-size: cover !important;
-    background: url(../../assets/images/workspace-bg.png) no-repeat;
+    background: url(../../images/workspace-bg.png) no-repeat;
     background-color: #F5F8FA;
 }
 
