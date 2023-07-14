@@ -24,8 +24,8 @@ import RequestTitleCreation from "@/components/myRequest/RequestTitleCreation";
 export default function Home() {
   return (
     <div>
-      <PricingFeatures />
-      {/* <MyAccount /> */}
+      {/* <PricingFeatures /> */}
+      <MyAccount />
       {/* <Workspace /> */}
       {/* <WorkspaceEmpty></WorkspaceEmpty> */}
       {/* <MyRequestProject></MyRequestProject> */}
