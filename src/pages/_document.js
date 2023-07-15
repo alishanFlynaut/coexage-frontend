@@ -6,6 +6,7 @@ export default function Document() {
       {/* <!-- Template Main CSS File --> */}
       <link href="/css/style.css" rel="stylesheet" />
       <link href="/css/responsive.css" rel="stylesheet" />
+      <link href="/css/style.css.map" rel="stylesheet" />
       {/*  */}
       <Head />
       <body>
