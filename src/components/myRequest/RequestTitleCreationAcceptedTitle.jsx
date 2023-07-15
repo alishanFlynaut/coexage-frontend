@@ -400,7 +400,7 @@ const RequestTitleCreationAcceptedTitle = () => {
                         id="Content"
                         role="tabpanel"
                         aria-labelledby="Content-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text">
                           Hang tight... The design is in process. You will
@@ -416,7 +416,7 @@ const RequestTitleCreationAcceptedTitle = () => {
                         id="Activity"
                         role="tabpanel"
                         aria-labelledby="Activity-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="dates">July 2022</div>
                         <div className="tabs-text text-left">
@@ -482,7 +482,7 @@ const RequestTitleCreationAcceptedTitle = () => {
                         id="OriginalRequest"
                         role="tabpanel"
                         aria-labelledby="OriginalRequest-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text">
                           Hang tight... The design is in process. You will

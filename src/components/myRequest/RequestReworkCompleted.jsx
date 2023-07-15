@@ -406,7 +406,7 @@ const RequestReworkCompleted = () => {
                         id="Content"
                         role="tabpanel"
                         aria-labelledby="Content-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text">
                           <div className="top-btn-area">
@@ -457,7 +457,7 @@ const RequestReworkCompleted = () => {
                         id="Activity"
                         role="tabpanel"
                         aria-labelledby="Activity-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="dates">July 2022</div>
                         <div className="tabs-text text-left">
@@ -525,7 +525,7 @@ const RequestReworkCompleted = () => {
                         id="OriginalRequest"
                         role="tabpanel"
                         aria-labelledby="OriginalRequest-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="substabs-boxs">
                           <span className="top-texts">
@@ -582,7 +582,7 @@ const RequestReworkCompleted = () => {
                               id="Project"
                               role="tabpanel"
                               aria-labelledby="Project-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -630,7 +630,7 @@ const RequestReworkCompleted = () => {
                               id="Company"
                               role="tabpanel"
                               aria-labelledby="Company-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -743,7 +743,7 @@ const RequestReworkCompleted = () => {
                               id="Campaign"
                               role="tabpanel"
                               aria-labelledby="Campaign-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -820,7 +820,7 @@ const RequestReworkCompleted = () => {
       <div
         className="modal fade rate-experience-Modal"
         id="RateExperienceModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">

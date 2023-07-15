@@ -410,7 +410,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                         id="Content"
                         role="tabpanel"
                         aria-labelledby="Content-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text text-left revision-full-width">
                           <div className="row">
@@ -474,7 +474,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                         id="Activity"
                         role="tabpanel"
                         aria-labelledby="Activity-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="dates">July 2022</div>
                         <div className="tabs-text text-left bg-white">
@@ -564,7 +564,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                         id="OriginalRequest"
                         role="tabpanel"
                         aria-labelledby="OriginalRequest-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="substabs-boxs">
                           <span className="top-texts">
@@ -621,7 +621,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                               id="Project"
                               role="tabpanel"
                               aria-labelledby="Project-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -669,7 +669,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                               id="Company"
                               role="tabpanel"
                               aria-labelledby="Company-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -782,7 +782,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                               id="Campaign"
                               role="tabpanel"
                               aria-labelledby="Campaign-tab"
-                              tabindex="0"
+                              tabIndex="0"
                             >
                               {/* <!--====== Start Here ============--> */}
                               <div className="sub-tab-text">
@@ -860,7 +860,7 @@ const RequestReworkPaidVersionRevision4 = () => {
       <div
         className="modal fade RequestSendModal"
         id="RequestSendModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content text-center">
@@ -889,7 +889,7 @@ const RequestReworkPaidVersionRevision4 = () => {
       <div
         className="modal fade ApproveTitleModal"
         id="ApproveTitleModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">

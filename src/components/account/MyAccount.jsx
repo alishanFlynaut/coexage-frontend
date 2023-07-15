@@ -738,7 +738,7 @@ const MyAccount = () => {
                                       id="Users"
                                       role="tabpanel"
                                       aria-labelledby="Users-tab"
-                                      tabindex="0"
+                                      tabIndex="0"
                                     >
                                       <div className="row">
                                         <div className="col-md-6">
@@ -850,7 +850,7 @@ const MyAccount = () => {
                                       id="Teams"
                                       role="tabpanel"
                                       aria-labelledby="Teams-tab"
-                                      tabindex="0"
+                                      tabIndex="0"
                                     >
                                       <div className="row">
                                         <div className="col-md-6">
@@ -948,7 +948,7 @@ const MyAccount = () => {
       <div
         className="modal fade AddTeamsModal"
         id="AddTeamsModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
@@ -1016,7 +1016,7 @@ const MyAccount = () => {
       </div>
       {/* <!-- End AddTeamsModal Modal--> */}
 
-      <div className="modal fade AddUserModal" id="AddUserModal" tabindex="-1">
+      <div className="modal fade AddUserModal" id="AddUserModal" tabIndex="-1">
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
             <div className="modal-header">

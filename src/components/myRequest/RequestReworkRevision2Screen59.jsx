@@ -410,7 +410,7 @@ const RequestReworkRevision2Screen59 = () => {
                         id="Content"
                         role="tabpanel"
                         aria-labelledby="Content-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text text-left">
                           <div className="row">
@@ -523,7 +523,7 @@ const RequestReworkRevision2Screen59 = () => {
                         id="Activity"
                         role="tabpanel"
                         aria-labelledby="Activity-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="dates">July 2022</div>
                         <div className="tabs-text text-left bg-white">
@@ -613,7 +613,7 @@ const RequestReworkRevision2Screen59 = () => {
                         id="OriginalRequest"
                         role="tabpanel"
                         aria-labelledby="OriginalRequest-tab"
-                        tabindex="0"
+                        tabIndex="0"
                       >
                         <div className="tabs-text bg-white">
                           Hang tight... The design is in process. You will
@@ -640,7 +640,7 @@ const RequestReworkRevision2Screen59 = () => {
       <div
         className="modal fade ApproveTitleModal"
         id="ApproveTitleModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
@@ -682,7 +682,7 @@ const RequestReworkRevision2Screen59 = () => {
       <div
         className="modal fade ApproveContentModal"
         id="ApproveContentModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">

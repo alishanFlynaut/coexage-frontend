@@ -477,7 +477,7 @@ const MyRequest = () => {
       <div
         className="modal fade ReqProjectModal"
         id="ReqProjectModal"
-        tabindex="-1"
+        tabIndex="-1"
       >
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
