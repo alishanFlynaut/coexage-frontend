@@ -410,7 +410,7 @@ const RequestReworkPaidVersionRevision4 = () => {
                         id="Content"
                         role="tabpanel"
                         aria-labelledby="Content-tab"
-                        tabIndex="0"
+                        tabIndex="0"             
                       >
                         <div className="tabs-text text-left revision-full-width">
                           <div className="row">

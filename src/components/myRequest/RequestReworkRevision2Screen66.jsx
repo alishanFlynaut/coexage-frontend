@@ -9,7 +9,7 @@ const RequestReworkRevision2Screen66 = () => {
       <div className="header-nav-wrap fixed-top d-flex flex-row">
         <nav className="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row container">
           <div className="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-            <a className="navbar-brand brand-logo" href="#"><img src="/images/logo-white.png" alt="logo" /></a>
+            <a className="navbar-brand brand-logo" href="#"><img src="images/logo-white.png" alt="logo" /></a>
           </div>
           <div className="navbar-menu-wrapper d-flex align-items-stretch">
             <nav className="header-nav sidebar-offcanvas" id="sidebar">
@@ -52,7 +52,7 @@ const RequestReworkRevision2Screen66 = () => {
               {/* <!-- Notifications --> */}
               <li className="nav-item dropdown">
                 <a className="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-bs-toggle="dropdown">
-                  <img src="/images/akar-icons_bell.png" alt="image"/>
+                  <img src="images/akar-icons_bell.png" alt="image"/>
                   <span className="count-symbol bg-orange">2</span>                </a>
                 <div className="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
                   <h6 className="p-3 mb-0">Notifications</h6>
@@ -100,14 +100,14 @@ const RequestReworkRevision2Screen66 = () => {
 
               <li className="nav-item nav-logout d-none d-lg-block">
                 <a className="nav-link" href="#">
-                  <img src="/images/ant-design_search-outlined.png" alt="image"/>                
+                  <img src="images/ant-design_search-outlined.png" alt="image"/>                
                 </a>
               </li>
 
               <li className="nav-item nav-profile dropdown">
                 <a className="nav-link dropdown-toggle" id="profileDropdown" href="#" data-bs-toggle="dropdown" aria-expanded="false">
                   <div className="nav-profile-img">
-                    <img src="/images/faces/face1.jpg" alt="image"/>
+                    <img src="images/faces/face1.jpg" alt="image"/>
                     {/* <!-- <span className="availability-status online"></span> --> */}
                   </div>
                   <div className="nav-profile-text">
@@ -117,7 +117,7 @@ const RequestReworkRevision2Screen66 = () => {
                 <div className="dropdown-menu navbar-dropdown profile-wrap" aria-labelledby="profileDropdown">
                   <a href="#" className="dropdown-item nav-profile-wrap">
                     <div className="nav-profile-image">
-                      <img src="/images/faces/face1.jpg" alt="profile"/>
+                      <img src="images/faces/face1.jpg" alt="profile"/>
                       <span className="login-status online"></span>
                       {/* <!--change to offline or busy as needed--> */}
                     </div>
@@ -135,7 +135,7 @@ const RequestReworkRevision2Screen66 = () => {
                   <a className="dropdown-item" href="#">Privacy Policy </a>
 
                   <div className="dropdown-divider mb1"></div>
-                  <a className="dropdown-item item-logout" href="#"><img src="/images/ri_logout-circle-r-line.png" alt="Logout"/> Logout</a>
+                  <a className="dropdown-item item-logout" href="#"><img src="images/ri_logout-circle-r-line.png" alt="Logout"/> Logout</a>
 
                     
                 </div>
@@ -162,8 +162,8 @@ const RequestReworkRevision2Screen66 = () => {
                       <h1 className="main-title"><span>Request Type:</span>Website Content</h1>
                     </div>
                     <div className="title-right">
-                      <a href="#" className="btn request-content-btn"><img src="/images/akar-icons_plus.png" alt="Request Content"/> View All Requests</a>
-					  <a href="#" className="btn request-type-btn"><img src="/images/show-arrow-icon.png" alt=""/></a>
+                      <a href="#" className="btn request-content-btn"><img src="images/akar-icons_plus.png" alt="Request Content"/> View All Requests</a>
+					  <a href="#" className="btn request-type-btn"><img src="images/show-arrow-icon.png" alt=""/></a>
                     </div>
                   </div>
                 </div>
@@ -295,9 +295,9 @@ const RequestReworkRevision2Screen66 = () => {
         				<div className="tabs-area">
         				  <nav>
           					<div className="nav nav-tabs" id="nav-tab" role="tablist">
-          					  <button className="nav-link active" id="Content-tab" data-bs-toggle="tab" data-bs-target="#Content" type="button" role="tab" aria-controls="Content" aria-selected="true"><img src="/images/tabs-icon1.png" alt=""/> Content</button>
-          					  <button className="nav-link" id="Activity-tab" data-bs-toggle="tab" data-bs-target="#Activity" type="button" role="tab" aria-controls="Activity" aria-selected="false"><img src="/images/tabs-icon2.png" alt=""/> Activity</button>
-          					  <button className="nav-link" id="OriginalRequest-tab" data-bs-toggle="tab" data-bs-target="#OriginalRequest" type="button" role="tab" aria-controls="OriginalRequest" aria-selected="false"><img src="/images/tabs-icon3.png" alt=""/> Original Request</button>
+          					  <button className="nav-link active" id="Content-tab" data-bs-toggle="tab" data-bs-target="#Content" type="button" role="tab" aria-controls="Content" aria-selected="true"><img src="images/tabs-icon1.png" alt=""/> Content</button>
+          					  <button className="nav-link" id="Activity-tab" data-bs-toggle="tab" data-bs-target="#Activity" type="button" role="tab" aria-controls="Activity" aria-selected="false"><img src="images/tabs-icon2.png" alt=""/> Activity</button>
+          					  <button className="nav-link" id="OriginalRequest-tab" data-bs-toggle="tab" data-bs-target="#OriginalRequest" type="button" role="tab" aria-controls="OriginalRequest" aria-selected="false"><img src="images/tabs-icon3.png" alt=""/> Original Request</button>
           					</div>
         				  </nav>
         				  <div className="tab-content" id="nav-tabContent">
@@ -310,14 +310,14 @@ const RequestReworkRevision2Screen66 = () => {
                               <p>Current draft is ready for your review. If you're satisfied with it, you can approve and close. Otherwise you may request a revision.</p>
                               <div className="top-btn-area">
                                 <a href="#" className="btn btn-primary me-2 mb-2" data-bs-toggle="modal" data-bs-target="#ApproveContentModal">
-                                  <img src="/images/akar-icons_star-w.png"/>Approve
+                                  <img src="images/akar-icons_star-w.png"/>Approve
                                 </a>
                                 <a href="#" className="btn btn-secondary me-2 mb-2">
                                   Request More Revisions
                                 </a>
                               </div>
                               <div className="photo-tab tab-banner">
-                                <img src="/images/image3.jpg" alt=""/>
+                                <img src="images/image3.jpg" alt=""/>
                               </div>
 
                               <div className="tab-content-area">
@@ -343,7 +343,7 @@ const RequestReworkRevision2Screen66 = () => {
                                     </div>
                                     <div className="revi-right d-flex">
                                       <span className="three-dot">
-                                        <img src="/images/dot-1.png" alt=""/>
+                                        <img src="images/dot-1.png" alt=""/>
                                       </span>
                                       <span className="dt">Jul 6, 2022</span>
                                     </div>
@@ -405,7 +405,7 @@ const RequestReworkRevision2Screen66 = () => {
           					  <div className="tabs-text bg-white">
           					  	Hang tight... The design is in process. You will receive a notification about your post.
           						<div className="photo-tab">
-          							<img src="/images/tabs-image.png" alt=""/>
+          							<img src="images/tabs-image.png" alt=""/>
           						</div>
           					  </div>
           					</div>

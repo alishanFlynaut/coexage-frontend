@@ -275,7 +275,7 @@ const MyRequest = () => {
                           </option>
                           <option value="Graphic Design">Graphic Design</option>
                         </select>
-                      </div>
+                      </div>    
                     </div>
                   </div>
                 </div>
