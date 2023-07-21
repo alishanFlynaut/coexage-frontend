@@ -1,5 +1,26 @@
 // import PricingFeatures from "@/components/pricingFeatures/PricingFeatures";
 import React from "react";
+<<<<<<< HEAD
+import MyAccount from "@/components/account/MyAccount";
+import Workspace from "@/components/workspace/Workspace";
+import WorkspaceEmpty from "@/components/workspace/WorkspaceEmpty";
+import MyRequestProject from "@/components/myRequest/MyRequestProject";
+import RequestReworkCompleted from "@/components/myRequest/RequestReworkCompleted";
+import RequestReworkPaidVersionRevision4 from "@/components/myRequest/RequestReworkPaidVersionRevision4";
+import RequestReworkPaidVersion from "@/components/myRequest/RequestReworkPaidVersion";
+import RequestReworkRevision1Screen63 from "@/components/myRequest/RequestReworkRevision1Screen63";
+import RequestReworkRevision2Screen59 from "@/components/myRequest/RequestReworkRevision2Screen59";
+import RequestReworkRevision2Screen60 from "@/components/myRequest/RequestReworkRevision2Screen60";
+import RequestReworkRevision2Screen62 from "@/components/myRequest/RequestReworkRevision2Screen62";
+import RequestReworkRevision2Screen64 from "@/components/myRequest/RequestReworkRevision2Screen64";
+import RequestReworkRevision2Screen66 from "@/components/myRequest/RequestReworkRevision2Screen66";
+import RequestReworkRevision3Screen67 from "@/components/myRequest/RequestReworkRevision3Screen67";
+import RequestReworkRevision3Screen68 from "@/components/myRequest/RequestReworkRevision3Screen68";
+import RequestReworkRevision3Screen69 from "@/components/myRequest/RequestReworkRevision3Screen69";
+import RequestTitleCreationAcceptedTitle from "@/components/myRequest/RequestTitleCreationAcceptedTitle";
+import RequestTitleCreationRequestNewTitle from "@/components/myRequest/RequestTitleCreationRequestNewTitle";
+import RequestTitleCreation from "@/components/myRequest/RequestTitleCreation";
+=======
 import Dashboard from "@/components/dashboard/Dashboard";
 import DashboardEmpty from "@/components/dashboard/DashboardEmpty";
 import My_Campaigns from "@/components/campaigns/My_Campaigns";
@@ -44,11 +65,38 @@ import SelectProjectTypeBlogArticleStep1Screen19 from "@/components/projectType/
 import SelectProjectTypeWebsiteStep1 from "@/components/projectType/selectProjectTypeWebsiteStep1";
 import SelectProjectTypeWebsiteStep1Screen20 from "@/components/projectType/SelectProjectTypeWebsiteStep1Screen20";
 
+>>>>>>> c6b01649d00cad7abd97d028b4baade28b113da0
 
 
 export default function Home() {
   return (
     <div>
+<<<<<<< HEAD
+      {/* <PricingFeatures /> */}
+      <MyAccount />
+      {/* <Workspace /> */}
+      {/* <WorkspaceEmpty></WorkspaceEmpty> */}
+      {/* <MyRequestProject></MyRequestProject> */}
+      {/* <RequestReworkCompleted></RequestReworkCompleted> */}
+      {/* <RequestReworkPaidVersionRevision4></RequestReworkPaidVersionRevision4> */}
+      {/* <RequestReworkPaidVersion></RequestReworkPaidVersion> */}
+      {/* <RequestReworkRevision1Screen63></RequestReworkRevision1Screen63> */}
+      {/* <RequestReworkRevision2Screen59></RequestReworkRevision2Screen59> */}
+      {/* <RequestReworkRevision2Screen60></RequestReworkRevision2Screen60> */}
+      {/* <RequestReworkRevision2Screen62></RequestReworkRevision2Screen62> */}
+      {/* <RequestReworkRevision2Screen64></RequestReworkRevision2Screen64> */}
+      {/* <RequestReworkRevision2Screen66></RequestReworkRevision2Screen66> */}
+      {/* <RequestReworkRevision3Screen67></RequestReworkRevision3Screen67> */}
+      {/* <RequestReworkRevision3Screen68></RequestReworkRevision3Screen68> */}
+      {/* <RequestReworkRevision3Screen69></RequestReworkRevision3Screen69> */}
+      {/* <RequestTitleCreationAcceptedTitle></RequestTitleCreationAcceptedTitle> */}
+      {/* <RequestTitleCreationRequestNewTitle></RequestTitleCreationRequestNewTitle> */}
+      {/* <RequestTitleCreation></RequestTitleCreation> */}
+
+
+
+      
+=======
 <<<<<<< HEAD
       <PricingFeatures />
       
@@ -104,6 +152,7 @@ export default function Home() {
       {/* <SelectProjectTypeWebsiteStep1Screen20 /> */}
 
 >>>>>>> 525e1deafc1c0ee13341c25264bfb03db9a24f41
+>>>>>>> c6b01649d00cad7abd97d028b4baade28b113da0
     </div>
   );
 }
